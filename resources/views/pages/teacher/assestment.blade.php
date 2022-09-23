@@ -116,16 +116,27 @@
                     <tr>
                         <th>Nama Siswa</th>
                         <th>B.Indo</th>
+                        <th>Deskripsi</th>
                         <th>B.Ingg</th>
+                        <th>Deskripsi</th>
                         <th>B.Arab</th>
+                        <th>Deskripsi</th>
                         <th>SBD</th>
+                        <th>Deskripsi</th>
                         <th>PPKn</th>
+                        <th>Deskripsi</th>
                         <th>MTK</th>
+                        <th>Deskripsi</th>
                         <th>PJOK</th>
+                        <th>Deskripsi</th>
                         <th>IPA</th>
+                        <th>Deskripsi</th>
                         <th>IPS</th>
+                        <th>Deskripsi</th>
                         <th>PAI</th>
+                        <th>Deskripsi</th>
                         <th>PD</th>
+                        <th>Deskripsi</th>
                         <th>Semester</th>
                         <th>Aksi</th>
                     </tr>
